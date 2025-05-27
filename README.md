@@ -1,5 +1,7 @@
 # `@wrhs/diagrams`
 
+> ⚠️ **DEPRECATED**: This package is no longer maintained and has been deprecated. Please use an alternative solution or contact the maintainers for more information.
+
 [![Version npm](https://img.shields.io/npm/v/@wrhs/diagrams.svg?style=flat-square)](https://www.npmjs.com/package/@wrhs/diagrams)
 [![License](https://img.shields.io/npm/l/@wrhs/diagrams.svg?style=flat-square)](https://github.com/warehouseai/diagrams/blob/master/LICENSE)
 [![npm Downloads](https://img.shields.io/npm/dm/@wrhs/diagrams.svg?style=flat-square)](https://npmcharts.com/compare/@wrhs/diagrams?minimal=true)
